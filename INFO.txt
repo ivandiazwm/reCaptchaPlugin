@@ -1,0 +1,5 @@
+
+reCaptchaPlugin for OpenSupports
+Downloaded at plugins.opensupports.com
+--------------------------------------------------------------------------------
+Plugin made by Ivan Diaz <ivan@opensupports.com> for OpenSupports.
